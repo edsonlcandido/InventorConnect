@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventorConnect.Core", "InventorConect.Core\InventorConnect.Core.csproj", "{6AC7DDDB-745C-40AE-B157-840858A60D99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventorConnect.Tests", "InventorConnect.Cli\InventorConnect.Tests.csproj", "{8389517F-93B8-47E0-AF33-6B16F9F30118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AC7DDDB-745C-40AE-B157-840858A60D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC7DDDB-745C-40AE-B157-840858A60D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC7DDDB-745C-40AE-B157-840858A60D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC7DDDB-745C-40AE-B157-840858A60D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8389517F-93B8-47E0-AF33-6B16F9F30118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8389517F-93B8-47E0-AF33-6B16F9F30118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8389517F-93B8-47E0-AF33-6B16F9F30118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8389517F-93B8-47E0-AF33-6B16F9F30118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C99FC6A4-B6C8-400E-931C-41050CE9711D}
+	EndGlobalSection
+EndGlobal
